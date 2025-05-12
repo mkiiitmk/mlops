@@ -1,2 +1,2 @@
 # mlops
-ml
+ml ops using CI/CD
